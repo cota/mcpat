@@ -1,3 +1,7 @@
 # Object
-.o
+*.o
+obj_opt/
+
+# Binary
+mcpat
 
